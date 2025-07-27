@@ -8,18 +8,17 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏗️ I'm **Marwan Jeffal**, a self-taught developer passionate about building scalable apps and solving problems.  
-- 💻 I mainly work with: **C++**, **C#**, **.NET Framework**, and **MySQL Server**.  
+- 💻 I mainly work with: **C++**, **C#**, **.NET Framework**, and **Microsoft SQL Server**.  
 - 📚 I’m constantly improving my skills and learning new technologies.  
-- 🎯 Fun fact: I love exploring how systems work under the hood and enjoy coding challenges!  
 
 ---
 
 ### 🛠️ Tech I Work With:
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="C++" width="60" height="60"/>
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
       <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="55" height="55"/>
+      <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" alt="Microsoft SQL Server" width="60" height="60"/>
 </p>
 
 ---
