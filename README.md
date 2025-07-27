@@ -10,6 +10,7 @@
 - 🏗️ I'm **Marwan Jeffal**, a self-taught developer passionate about building scalable apps and solving problems.  
 - 💻 I mainly work with: **C++**, **C#**, **.NET Framework**, and **Microsoft SQL Server**.  
 - 📚 I’m constantly improving my skills and learning new technologies.  
+- 🌍 I enjoy exploring how systems work under the hood and solving coding challenges.  
 
 ---
 
@@ -24,5 +25,6 @@
 ---
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Marwan's github stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Marwan's github stats](https://github-readme-stats.vercel.app/api?username=Mar1j&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mar1j&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
