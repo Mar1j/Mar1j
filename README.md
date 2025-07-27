@@ -23,3 +23,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
       <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="55" height="55"/>
+      <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" alt="Microsoft SQL Server" width="60" height="60"/>
+</p>
+
+---
+
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Marwan's github stats](https://github-readme-stats.vercel.app/api?username=Mar1j&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mar1j&layout=compact&langs_count=6&hide=html,css&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
